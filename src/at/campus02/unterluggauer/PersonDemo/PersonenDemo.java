@@ -1,4 +1,6 @@
-package at.campus02.unterluggauer;
+package at.campus02.unterluggauer.PersonDemo;
+
+import at.campus02.unterluggauer.PersonDemo.Person;
 
 public class PersonenDemo
 {

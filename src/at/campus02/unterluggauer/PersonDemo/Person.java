@@ -1,4 +1,4 @@
-package at.campus02.unterluggauer;
+package at.campus02.unterluggauer.PersonDemo;
 
 import java.util.Objects;
 
